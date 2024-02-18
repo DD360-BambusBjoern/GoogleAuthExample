@@ -8,3 +8,6 @@ Achtung: Die .env-Datei ist aus sicherheitsgründen nicht dabei. Hier müssen di
 GOOGLE_PROJECT_PROJECT_ID=entweder json datei oder google cloud console schauen
 GOOGLE_PROJECT_CLIENT_ID=aus der Json datei
 GOOGLE_PROJECT_CLIENT_SECRET=aus der Json datei
+
+Benötigte npm Packages:
+`npm install @react-oauth/google googleapis`
