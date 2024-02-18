@@ -11,3 +11,5 @@ GOOGLE_PROJECT_CLIENT_SECRET=aus der Json datei
 
 Benötigte npm Packages:
 `npm install @react-oauth/google googleapis`
+
+Die wichtigsten Information findet ihr in den Dateien [googleContext.tsx](https://github.com/DD360-BambusBjoern/GoogleAuthExample/blob/main/app/context/googleContext.tsx) und [route.ts](https://github.com/DD360-BambusBjoern/GoogleAuthExample/blob/main/app/api/auth/route.ts)
